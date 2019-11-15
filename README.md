@@ -1,2 +1,1 @@
-# internpython
-practice_python
+it's lesson 3
